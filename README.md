@@ -1,0 +1,2 @@
+# tugas1strkdat
+tumpukandata
